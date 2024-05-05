@@ -17,7 +17,7 @@
 <img src="https://koronaebola.github.io/5.png" />
 </a>
 
-<a href="https://www.collaborationspharma.com/megasyn">
+<a href="https://youtu.be/1_mER5qmaVk">
 <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
 <!--
