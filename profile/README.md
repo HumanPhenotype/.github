@@ -21,9 +21,15 @@
 <a href="https://youtu.be/1_mER5qmaVk">
 <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
+
 <img src="https://koronaebola.github.io/chem.png" />
+
 <a href="https://huggingface.co/">
 <img src="https://koronaebola.github.io/hf.jpg" />
+</a>
+
+<a href="https://nanome.ai/matryx/">
+<img src="https://koronaebola.github.io/matryx.png" />
 </a>
 
 
