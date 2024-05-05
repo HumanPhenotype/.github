@@ -10,10 +10,6 @@
  <img src="https://koronaebola.github.io/matryx.png" />
 </a>
 
-<a href="https://nanome.ai/">
- <img src="https://koronaebola.github.io/3.png" />
-</a>
-
 <a href="https://www.youtube.com/watch?v=l1qmpCRpzMk">
  <img src="https://koronaebola.github.io/4.png" />
 </a>
@@ -26,6 +22,9 @@
  <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
 
+<a href="https://nanome.ai/">
+ <img src="https://koronaebola.github.io/3.png" />
+</a>
 <img src="https://koronaebola.github.io/chem.png" />
 
 <a href="https://huggingface.co/">
