@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://youtu.be/FSH1VShvhPE?si=qZZL01wlHUbiBQY4">
-- Fine spraying of viruses and vaccination
+<center>- Fine spraying of viruses and vaccination</center>
 <img src="https://koronaebola.github.io/dr.jpg" />
 </a>
 
