@@ -31,8 +31,8 @@
 <img src="https://koronaebola.github.io/hf.jpg" />
 </a>
 
+## - Fine spraying of viruses and vaccination
 <a href="https://youtu.be/FSH1VShvhPE?si=qZZL01wlHUbiBQY4">
-<center>- Fine spraying of viruses and vaccination</center>
 <img src="https://koronaebola.github.io/dr.jpg" />
 </a>
 
