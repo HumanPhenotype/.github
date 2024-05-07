@@ -18,6 +18,8 @@
  <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
 
+<img src="https://humanphenotype.github.io/dna.jpg" />
+
 <a href="https://www.collaborationspharma.com/megasyn">
  <img src="https://koronaebola.github.io/5.png" />
 </a>
@@ -36,7 +38,7 @@
 <img src="https://koronaebola.github.io/dr.jpg" />
 </a>
 
-<img src="https://humanphenotype.github.io/dna.jpg" />
+
 
 
 <!--
