@@ -2,6 +2,8 @@
 # Modern Cultural Code and Human Phenotyping
 # Using Distributed Architecture And 3D Engines
 
+<img src="koronaEbola.github.io/brains.png"/>
+
 <a href="https://protocol.ai">
  <img src="https://koronaebola.github.io/2.png" />
 </a>
@@ -41,7 +43,6 @@
 <a href="https://youtu.be/FSH1VShvhPE?si=qZZL01wlHUbiBQY4">
 <img src="https://koronaebola.github.io/dr.jpg" />
 </a>
-
 
 
 
