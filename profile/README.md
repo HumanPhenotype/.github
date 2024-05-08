@@ -2,6 +2,8 @@
 # Modern Cultural Code and Human Phenotyping
 # Using Distributed Architecture And 3D Engines
 
+<img src="https://koronaEbola.github.io/1.png"/>
+
 <img src="https://koronaEbola.github.io/brain1.png"/>
 
 <a href="https://protocol.ai">
