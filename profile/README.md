@@ -5,7 +5,7 @@
 <a href="https://cepbep.github.io/DNA/"> 
 <img src="https://koronaEbola.github.io/1.png"/>
 </a>
-<img src="https://koronaEbola.github.io/brain1.png"/>
+<img src="https://koronaebola.github.io/bbr.png"/>
 
 <a href="https://protocol.ai">
  <img src="https://koronaebola.github.io/2.png" />
