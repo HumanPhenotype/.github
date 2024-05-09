@@ -25,6 +25,7 @@
 
 <a href="https://cepbep.github.io/DNA/">         
  <img src="https://humanphenotype.github.io/dna.jpg" />
+<img src="https://koronaEbola.github.io/actg.jpg"/>
 </a>
 
 <a href="https://www.collaborationspharma.com/megasyn">
