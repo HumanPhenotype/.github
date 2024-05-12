@@ -4,7 +4,7 @@
 
 
 <a href="https://www.sidefx.com/">
- <img src="https://koronaebola.github.io/hdni.jpg"/>
+ <img src="https://koronaebola.github.io/hdni.png"/>
 </a>
 
 <a href="https://www.unrealengine.com/">
