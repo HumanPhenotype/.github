@@ -2,13 +2,20 @@
 # Modern Cultural Code and Human Phenotyping
 # Using Distributed Architecture And 3D Engines
 
-<img src="https://koronaebola.github.io/hdni.jpg"/>
-<img src="https://koronaebola.github.io/ue.jpg"/>
+
+<a href="https://www.sidefx.com/">
+ <img src="https://koronaebola.github.io/hdni.jpg"/>
+</a>
+
+<a href="https://www.unrealengine.com/">
+ <img src="https://koronaebola.github.io/ue.jpg"/>
+</a>
 
 <a href="https://cepbep.github.io/DNA/"> 
-<img src="https://koronaEbola.github.io/1.png"/>
+ <img src="https://koronaEbola.github.io/1.png"/>
 </a>
-<img src="https://koronaebola.github.io/bbr.png"/>
+
+ <img src="https://koronaebola.github.io/bbr.png"/>
 
 <a href="https://protocol.ai">
  <img src="https://koronaebola.github.io/2.png" />
@@ -28,7 +35,7 @@
 
 <a href="https://cepbep.github.io/DNA/">         
  <img src="https://humanphenotype.github.io/dna.jpg" />
-<img src="https://koronaEbola.github.io/actg.jpg"/>
+ <img src="https://koronaEbola.github.io/actg.jpg"/>
 </a>
 
 <a href="https://www.collaborationspharma.com/megasyn">
@@ -40,15 +47,15 @@
 </a>
 
 <a href="https://www.youtube.com/watch?v=l1qmpCRpzMk">
-<img src="https://koronaebola.github.io/chem.png" />
+ <img src="https://koronaebola.github.io/chem.png" />
 </a>
 <a href="https://huggingface.co/">
-<img src="https://koronaebola.github.io/hf.jpg" />
+ <img src="https://koronaebola.github.io/hf.jpg" />
 </a>
 
 ## - Fine spraying of viruses and vaccination
 <a href="https://youtu.be/FSH1VShvhPE?si=qZZL01wlHUbiBQY4">
-<img src="https://koronaebola.github.io/dr.jpg" />
+ <img src="https://koronaebola.github.io/dr.jpg" />
 </a>
 
 
