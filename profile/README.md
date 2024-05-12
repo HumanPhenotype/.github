@@ -2,6 +2,9 @@
 # Modern Cultural Code and Human Phenotyping
 # Using Distributed Architecture And 3D Engines
 
+<img src="https://koronaebola.github.io/hdni.jpg"/>
+<img src="https://koronaebola.github.io/ue.jpg"/>
+
 <a href="https://cepbep.github.io/DNA/"> 
 <img src="https://koronaEbola.github.io/1.png"/>
 </a>
