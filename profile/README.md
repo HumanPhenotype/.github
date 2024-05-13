@@ -22,7 +22,7 @@
  <img src="https://koronaebola.github.io/vslogot.png"/>
 </a>
 
-<a href="https://nanoporetech.com/">
+<a href="https://www.blender.org/">
  <img src="https://koronaebola.github.io/blender.png"/>
 </a>
 
