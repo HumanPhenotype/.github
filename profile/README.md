@@ -26,6 +26,11 @@
  <img src="https://koronaebola.github.io/blender.png"/>
 </a>
 
+<a href="https://www.youtube.com/@DataProfessor">
+ <img src="https://koronaebola.github.io/data professor.jpg"/>
+</a>
+
+
 <a href="https://cepbep.github.io/DNA/"> 
  <img src="https://koronaEbola.github.io/1.png"/>
 </a>
