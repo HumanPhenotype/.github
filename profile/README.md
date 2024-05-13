@@ -38,12 +38,14 @@
  <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
 
-<a href="https://nanome.ai/">
- <img src="https://koronaebola.github.io/3.png" />
-</a>
+
 
 <a href="https://www.rcsb.org/">
  <img src="https://koronaebola.github.io/rcsb-pdb.png" />
+</a>
+
+<a href="https://nanome.ai/">
+ <img src="https://koronaebola.github.io/3.png" />
 </a>
 
 <a href="https://cepbep.github.io/DNA/">         
@@ -52,7 +54,9 @@
 </a>
 
 <a href="https://www.collaborationspharma.com/megasyn">
+ 
  <img src="https://koronaebola.github.io/5.png" />
+
 </a>
 
 
