@@ -22,6 +22,10 @@
  <img src="https://koronaebola.github.io/vslogot.png"/>
 </a>
 
+<a href="https://nanoporetech.com/">
+ <img src="https://koronaebola.github.io/blender.png"/>
+</a>
+
 <a href="https://cepbep.github.io/DNA/"> 
  <img src="https://koronaEbola.github.io/1.png"/>
 </a>
