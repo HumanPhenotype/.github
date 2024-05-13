@@ -55,7 +55,7 @@
 
 <a href="https://www.collaborationspharma.com/megasyn">
  
- <img src="https://koronaebola.github.io/5.png" />
+ <img src="https://koronaebola.github.io/4.png" />
 
 </a>
 
