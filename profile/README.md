@@ -4,6 +4,11 @@
 
 
 
+
+<a href="https://www.thermofisher.com/">
+ <img src="https://koronaebola.github.io/ThermoFisherScientific.png"/>
+</a>
+
 <a href="https://nanoporetech.com/">
  <img src="https://koronaebola.github.io/ox.png"/>
 </a>
