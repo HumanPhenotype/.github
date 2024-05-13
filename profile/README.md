@@ -3,7 +3,7 @@
 # Using Distributed Architecture And 3D Engines
 
 <a href="https://www.eppendorf.com/">
- <img src="https://koronaebola.github.io/eppendorf.png"/>
+ <img src="https://koronaebola.github.io/Eppendorf.png"/>
 </a>
 
 
