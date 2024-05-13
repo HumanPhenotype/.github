@@ -3,6 +3,11 @@
 # Using Distributed Architecture And 3D Engines
 
 
+
+<a href="https://nanoporetech.com/">
+ <img src="https://koronaebola.github.io/ox.png"/>
+</a>
+
 <a href="https://www.sidefx.com/">
  <img src="https://koronaebola.github.io/hdni.png"/>
 </a>
@@ -10,6 +15,7 @@
 <a href="https://www.unrealengine.com/">
  <img src="https://koronaebola.github.io/ue.png"/>
 </a>
+
 
 
 <a href="https://visual-science.com/">
