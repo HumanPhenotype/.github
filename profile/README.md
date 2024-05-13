@@ -13,7 +13,7 @@
 
 
 <a href="https://visual-science.com/">
- <img src="https://koronaebola.github.io/visual-science-cover.png"/>
+ <img src="https://koronaebola.github.io/vslogot.png"/>
 </a>
 
 <a href="https://cepbep.github.io/DNA/"> 
