@@ -54,19 +54,17 @@
 </a>
 
 <a href="https://www.collaborationspharma.com/megasyn">
- 
  <img src="https://raw.githubusercontent.com/koronaEbola/koronaEbola.github.io/main/5.png" />
-
 </a>
 
-
+<a href="https://huggingface.co/">
+ <img src="https://koronaebola.github.io/hf.jpg" />
+</a>
 
 <a href="https://www.youtube.com/watch?v=l1qmpCRpzMk">
  <img src="https://koronaebola.github.io/chem.png" />
 </a>
-<a href="https://huggingface.co/">
- <img src="https://koronaebola.github.io/hf.jpg" />
-</a>
+
 
 ## - Fine spraying of viruses and vaccination
 <a href="https://youtu.be/FSH1VShvhPE?si=qZZL01wlHUbiBQY4">
