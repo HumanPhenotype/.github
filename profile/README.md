@@ -46,7 +46,10 @@
  <img src="https://koronaebola.github.io/data professor.jpg"/>
 </a>
 
-
+<a href="https://humanphenotype.github.io/"> 
+ <img src="https://koronaEbola.github.io/mir.png"/>
+</a>
+ 
 <a href="https://cepbep.github.io/DNA/"> 
  <img src="https://koronaEbola.github.io/1.png"/>
 </a>
