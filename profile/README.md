@@ -67,6 +67,10 @@
 </div>
 </a>
 
+<a href="https://www.ini.usc.edu/">
+ <img src="https://koronaEbola.github.io/Banner.png"/>
+</a>
+
  <img src="https://koronaebola.github.io/bbr.png"/>
 
 <a href="https://protocol.ai">
