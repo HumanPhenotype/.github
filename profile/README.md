@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
+![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Input3DEnhancements.gif)
 ![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
 
 **Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v1.3.0 - v3.4.0 </a>  rendering segmentation output in 3D**
