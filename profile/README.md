@@ -54,7 +54,7 @@
  <img src="https://koronaEbola.github.io/1.png"/>
 </a>
 
-<a href="https://cepbep.github.io/DNA/">
+<a href="https://brainchop.org/">
 
  <img src="https://koronaEbola.github.io/Banner.png"/>
 
