@@ -60,6 +60,7 @@
 
 <div align="center">
 ![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
+
 </div>
 </a>
 
