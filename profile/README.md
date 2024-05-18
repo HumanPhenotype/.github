@@ -54,24 +54,18 @@
  <img src="https://koronaEbola.github.io/1.png"/>
 </a>
 
-<a href="https://brainchop.org/">
+ <img src="https://koronaebola.github.io/bbr.png"/>
 
- <img src="https://koronaEbola.github.io/Banner.png"/>
-
-<div align="center">
-
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Input3DEnhancements.gif)
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
-
-<!--**Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v1.3.0 - v3.4.0 </a>  rendering segmentation output in 3D**-->
-</div>
-</a>
 
 <a href="https://www.ini.usc.edu/">
  <img src="https://koronaEbola.github.io/ucs.png"/>
 </a>
 
- <img src="https://koronaebola.github.io/bbr.png"/>
+
+
+<a href="https://brainchop.org/">
+ <img src="https://koronaEbola.github.io/Banner.png"/>
+</a>
 
 <a href="https://protocol.ai">
  <img src="https://koronaebola.github.io/2.png" />
