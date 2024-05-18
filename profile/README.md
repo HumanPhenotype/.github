@@ -56,7 +56,7 @@
 
 <a href="https://cepbep.github.io/DNA/"> 
  <img src="https://koronaEbola.github.io/Banner.png"/>
- <img src="https://github.com/neuroneural/brainchop/raw/master/css/images/Brainchop3D.gif"/>
+ <img src="https://humanphenotype.github.io/Brainchop3D.gif)"/>
 </a>
 
  <img src="https://koronaebola.github.io/bbr.png"/>
