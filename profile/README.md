@@ -56,7 +56,13 @@
 
 <a href="https://cepbep.github.io/DNA/"> 
  <img src="https://koronaEbola.github.io/Banner.png"/>
-![Interface](https://humanphenotype.github.io/Brainchop3D.gif)
+<div align="center">
+
+![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
+
+
+**Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v1.3.0 - v3.4.0 </a>  rendering segmentation output in 3D**
+</div>
 </a>
 
  <img src="https://koronaebola.github.io/bbr.png"/>
