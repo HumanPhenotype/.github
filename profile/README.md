@@ -55,9 +55,10 @@
 </a>
 
 <a href="https://cepbep.github.io/DNA/">
-<div align="center">
+
  <img src="https://koronaEbola.github.io/Banner.png"/>
 
+<div align="center">
 ![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
 </div>
 </a>
