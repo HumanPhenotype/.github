@@ -68,7 +68,7 @@
 </a>
 
 <a href="https://www.ini.usc.edu/">
- <img src="https://koronaEbola.github.io/Banner.png"/>
+ <img src="https://koronaEbola.github.io/ucs.png"/>
 </a>
 
  <img src="https://koronaebola.github.io/bbr.png"/>
